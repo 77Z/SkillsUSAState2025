@@ -7,3 +7,6 @@ deno run --allow-all main.ts
 The binary was compiled with:
 
 deno compile --allow-all main.ts
+
+installing node type definitions for typescript is required to run this program.
+Use `npm i` or `deno install` in the root of the repo to pull that package.

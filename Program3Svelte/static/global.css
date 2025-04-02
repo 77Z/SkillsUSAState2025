@@ -1,0 +1,22 @@
+* {
+	font-family: "Inter", sans-serif;
+	font-optical-sizing: auto;
+}
+
+::selection {
+	background: #0000d6;
+	color: #fff;
+}
+
+.content {
+	max-width: 800px;
+	margin: auto;
+}
+
+button {
+	background: #0000d6;
+	color: #fff;
+	cursor: pointer;
+	border: none;
+	padding: 10px 20px;
+}
