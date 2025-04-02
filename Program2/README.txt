@@ -8,5 +8,6 @@ The binary was compiled with:
 
 deno compile --allow-all main.ts
 
-installing node type definitions for typescript is required to run this program.
-Use `npm i` or `deno install` in the root of the repo to pull that package.
+installing node type definitions for typescript is required to run this program
+(in the development mode, the compiled binary does NOT need any deps). Use
+`npm i` or `deno install` in the root of the repo to pull that package.
