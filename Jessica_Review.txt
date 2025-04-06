@@ -1,0 +1,7 @@
+I wish you good luck at Nationals, hope to hear how you do.
+
+I had not seen Deno before and I've been looking at it. I would say that for business, knowing the Node.JS is going to land you a job easier. 
+Deno is definitly very nice, and seems to be a good evolution of node. 
+
+
+
